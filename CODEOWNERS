@@ -1,0 +1,16 @@
+# Default code owner for the repository
+* @Aasief-Khan
+
+# Owners for the build files
+*.yml                       @Aasief-Khan
+*.yaml                       @Aasief-Khan
+*.cmake                      @Aasief-Khan
+CMakeLists.txt               @Aasief-Khan
+
+
+# Owners for the licenses
+/licenses/                  @krishnaprasath
+
+# Owners for the addons
+/src/module1/           @Aasief-Khan @vinodhini
+/src/module2/            @krishnaprasath
